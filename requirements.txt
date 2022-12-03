@@ -38,3 +38,4 @@ xattr
 yt-dlp
 waybackpy
 pymongo
+pycountry
